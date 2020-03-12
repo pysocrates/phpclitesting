@@ -1,0 +1,5 @@
+1=PHP in a Nutshell=Paul Hudson=O'Reilly Media=0123456789|012345678912x
+2=Outwitting The Devil=Napolean Hill=Sterling Publishing=978-1402784538
+3=Fear and Loathing in Las Vegas=Hunter S. Thompson=Vintage=978-0679785897
+4=Art of War=Sun Tzu=Filiquarian=978-1599869773
+5=Think and Grow Rich=Napolean Hill=TarcherPerigee=978-1585424337
