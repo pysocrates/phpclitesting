@@ -37,11 +37,6 @@ php console.php
 terminal window is too narrow, max view width recommended
 
 -----------------------------
-#test.php
-
-run php test.php to check search.php for pass or fail. very basic. 
-
------------------------------
 
 #flatness.txt
 
