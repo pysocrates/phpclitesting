@@ -3,7 +3,6 @@
 // 
 // CoryC
 // 
-// for cPanel 
 	while( true ) {
 		// Print menu to console
 		printMenu();
